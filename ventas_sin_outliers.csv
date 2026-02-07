@@ -1,0 +1,101 @@
+transaction_id;date;customer_id;name;region;age;product_id;product_name;category;price;quantity;total_amount;product_name_invented;calories;poblacion
+T001;01-01-2025;C0049;Cliente_49;Coquimbo;71;P010;Producto_GT_10;LI;128.22;1;128.22;Jugo de Vainilla;423;832 864
+T002;21-02-2025;C0089;Cliente_89;Coquimbo;70;P014;Producto_GT_14;RC;48.66;3;145.98;Yogurt de Vainilla;238;832 864
+T003;04-12-2025;C0070;Cliente_70;RM;19;P019;Producto_UE_19;LI;25.81;1;25.81;Jugo de Coco;434;7 400 741
+T004;14-12-2025;C0087;Cliente_87;RM;22;P005;Producto_UE_5;LI;17.84;6;107.04;Bebida de Fresa;102;7 400 741
+T005;17-11-2025;C0056;Cliente_56;Valparaíso;74;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513;1 896 053
+T006;18-10-2025;C0007;Cliente_7;BioBio;72;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376;1 613 059
+T007;15-12-2025;C0081;Cliente_81;Valparaíso;56;P004;Producto_UE_4;LI;121.05;6;726.3;Yogurt de Limón;400;1 896 053
+T008;28-07-2025;C0001;Cliente_1;BioBio;69;P014;Producto_GT_14;RC;48.66;6;291.96;Yogurt de Vainilla;238;1 613 059
+T009;25-08-2025;C0013;Cliente_13;BioBio;47;P006;Producto_UE_6;RC;65.64;2;131.28;Galleta de Vainilla;513;1 613 059
+T010;07-06-2025;C0036;Cliente_36;BioBio;41;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361;1 613 059
+T011;07-01-2025;C0064;Cliente_64;Coquimbo;64;P004;Producto_UE_4;LI;121.05;9;1089.45;Yogurt de Limón;400;832 864
+T012;03-08-2025;C0022;Cliente_22;Coquimbo;23;P008;Producto_UE_8;RC;72.54;2;145.08;Jugo de Chocolate;176;832 864
+T013;30-10-2025;C0018;Cliente_18;Coquimbo;55;P013;Producto_GT_13;RC;62.63;1;62.63;Bebida de Coco;97;832 864
+T014;08-08-2025;C0039;Cliente_39;Coquimbo;23;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577;832 864
+T015;12-10-2025;C0091;Cliente_91;BioBio;61;P013;Producto_GT_13;RC;62.63;8;501.04;Bebida de Coco;97;1 613 059
+T016;20-08-2025;C0099;Cliente_99;Maule;62;P019;Producto_UE_19;LI;25.81;8;206.48;Jugo de Coco;434;1 123 008
+T017;11-11-2025;C0050;Cliente_50;Coquimbo;34;P017;Producto_GT_17;LI;78.6;1;78.6;Jugo de Fresa;182;832 864
+T018;15-04-2025;C0008;Cliente_8;Coquimbo;43;P018;Producto_UE_18;GT;36.6;3;109.8;Galleta de Limón;73;832 864
+T019;24-05-2025;C0086;Cliente_86;BioBio;65;P012;Producto_GT_12;GT;23.38;5;116.9;Postre de Miel;271;1 613 059
+T020;31-01-2025;C0045;Cliente_45;Valparaíso;33;P001;Producto_UE_1;LI;139.98;8;1119.84;Jugo de Naranja;323;1 896 053
+T021;08-03-2025;C0057;Cliente_57;Maule;57;P005;Producto_UE_5;LI;17.84;8;142.72;Bebida de Fresa;102;1 123 008
+T022;19-01-2025;C0018;Cliente_18;Maule;26;P004;Producto_UE_4;LI;121.05;9;1089.45;Yogurt de Limón;400;1 123 008
+T023;19-01-2025;C0065;Cliente_65;Maule;22;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513;1 123 008
+T024;23-08-2025;C0001;Cliente_1;Coquimbo;64;P016;Producto_GT_16;LI;76.65;5;383.25;Bebida de Almendra;376;832 864
+T025;22-01-2025;C0003;Cliente_3;BioBio;24;P016;Producto_GT_16;LI;76.65;6;459.9;Bebida de Almendra;376;1 613 059
+T026;09-10-2025;C0034;Cliente_34;Valparaíso;48;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513;1 896 053
+T027;03-04-2025;C0060;Cliente_60;Coquimbo;43;P009;Producto_GT_9;UE;117.29;6;703.74;Snack de Naranja;100;832 864
+T028;29-04-2025;C0093;Cliente_93;Valparaíso;59;P009;Producto_GT_9;UE;117.29;1;117.29;Snack de Naranja;100;1 896 053
+T029;11-10-2025;C0033;Cliente_33;Valparaíso;32;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238;1 896 053
+T030;13-11-2025;C0037;Cliente_37;Maule;30;P005;Producto_UE_5;LI;17.84;8;142.72;Bebida de Fresa;102;1 123 008
+T031;12-06-2025;C0093;Cliente_93;Coquimbo;59;P014;Producto_GT_14;RC;48.66;9;437.94;Yogurt de Vainilla;238;832 864
+T032;08-05-2025;C0005;Cliente_5;Maule;20;P015;Producto_UE_15;LI;84.06;7;588.42;Bebida de Vainilla;204;1 123 008
+T033;26-10-2025;C0069;Cliente_69;Maule;69;P006;Producto_UE_6;RC;65.64;9;590.76;Galleta de Vainilla;513;1 123 008
+T034;27-06-2025;C0017;Cliente_17;Coquimbo;63;P008;Producto_UE_8;RC;72.54;8;580.32;Jugo de Chocolate;176;832 864
+T035;17-02-2025;C0036;Cliente_36;Maule;46;P017;Producto_GT_17;LI;78.6;2;157.2;Jugo de Fresa;182;1 123 008
+T036;30-09-2025;C0029;Cliente_29;Maule;64;P011;Producto_GT_11;LI;86.7;2;173.4;Jugo de Fresa;577;1 123 008
+T037;21-10-2025;C0073;Cliente_73;Coquimbo;67;P012;Producto_GT_12;GT;23.38;8;187.04;Postre de Miel;271;832 864
+T038;23-01-2025;C0006;Cliente_6;Coquimbo;18;P010;Producto_GT_10;LI;128.22;3;384.65999999999997;Jugo de Vainilla;423;832 864
+T039;24-02-2025;C0020;Cliente_20;RM;62;P009;Producto_GT_9;UE;117.29;8;938.32;Snack de Naranja;100;7 400 741
+T040;13-01-2025;C0065;Cliente_65;Maule;67;P003;Producto_GT_3;GT;125.08;3;375.24;Bebida de Fresa;361;1 123 008
+T041;04-06-2025;C0076;Cliente_76;RM;30;P013;Producto_GT_13;RC;62.63;8;501.04;Bebida de Coco;97;7 400 741
+T042;23-01-2025;C0002;Cliente_2;BioBio;62;P006;Producto_UE_6;RC;65.64;2;131.28;Galleta de Vainilla;513;1 613 059
+T043;11-05-2025;C0023;Cliente_23;Coquimbo;42;P007;Producto_UE_7;UE;132.67;6;796.02;Snack de Limón;77;832 864
+T044;09-07-2025;C0089;Cliente_89;Valparaíso;61;P003;Producto_GT_3;GT;125.08;3;375.24;Bebida de Fresa;361;1 896 053
+T045;31-12-2025;C0068;Cliente_68;Valparaíso;60;P018;Producto_UE_18;GT;36.6;8;292.8;Galleta de Limón;73;1 896 053
+T046;30-05-2025;C0049;Cliente_49;BioBio;60;P012;Producto_GT_12;GT;23.38;4;93.52;Postre de Miel;271;1 613 059
+T047;23-12-2025;C0067;Cliente_67;Maule;37;P014;Producto_GT_14;RC;48.66;9;437.94;Yogurt de Vainilla;238;1 123 008
+T048;19-10-2025;C0062;Cliente_62;BioBio;72;P020;Producto_UE_20;RC;31.49;2;62.98;Postre de Naranja;468;1 613 059
+T049;20-02-2025;C0046;Cliente_46;BioBio;20;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376;1 613 059
+T050;09-03-2025;C0021;Cliente_21;Coquimbo;60;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361;832 864
+T051;09-08-2025;C0055;Cliente_55;Coquimbo;31;P018;Producto_UE_18;GT;36.6;4;146.4;Galleta de Limón;73;832 864
+T052;16-01-2025;C0087;Cliente_87;RM;37;P020;Producto_UE_20;RC;31.49;6;188.94;Postre de Naranja;468;7 400 741
+T053;12-09-2025;C0047;Cliente_47;Valparaíso;65;P004;Producto_UE_4;LI;121.05;8;968.4;Yogurt de Limón;400;1 896 053
+T054;10-06-2025;C0043;Cliente_43;Maule;30;P015;Producto_UE_15;LI;84.06;4;336.24;Bebida de Vainilla;204;1 123 008
+T055;11-05-2025;C0001;Cliente_1;BioBio;55;P012;Producto_GT_12;GT;23.38;7;163.66;Postre de Miel;271;1 613 059
+T056;19-02-2025;C0048;Cliente_48;Coquimbo;43;P010;Producto_GT_10;LI;128.22;6;769.32;Jugo de Vainilla;423;832 864
+T057;13-02-2025;C0024;Cliente_24;RM;42;P019;Producto_UE_19;LI;25.81;7;180.67;Jugo de Coco;434;7 400 741
+T058;13-04-2025;C0093;Cliente_93;RM;31;P004;Producto_UE_4;LI;121.05;6;726.3;Yogurt de Limón;400;7 400 741
+T059;27-02-2025;C0048;Cliente_48;Maule;40;P014;Producto_GT_14;RC;48.66;3;145.98;Yogurt de Vainilla;238;1 123 008
+T060;25-03-2025;C0020;Cliente_20;Valparaíso;47;P018;Producto_UE_18;GT;36.6;4;146.4;Galleta de Limón;73;1 896 053
+T061;05-05-2025;C0023;Cliente_23;Coquimbo;32;P012;Producto_GT_12;GT;23.38;6;140.28;Postre de Miel;271;832 864
+T062;31-03-2025;C0026;Cliente_26;Maule;45;P010;Producto_GT_10;LI;128.22;7;897.54;Jugo de Vainilla;423;1 123 008
+T063;03-04-2025;C0076;Cliente_76;RM;31;P006;Producto_UE_6;RC;65.64;5;328.2;Galleta de Vainilla;513;7 400 741
+T064;02-01-2025;C0031;Cliente_31;Coquimbo;25;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577;832 864
+T065;24-01-2025;C0013;Cliente_13;Coquimbo;68;P008;Producto_UE_8;RC;72.54;2;145.08;Jugo de Chocolate;176;832 864
+T066;22-02-2025;C0046;Cliente_46;RM;25;P020;Producto_UE_20;RC;31.49;7;220.42999999999998;Postre de Naranja;468;7 400 741
+T067;11-09-2025;C0003;Cliente_3;Maule;43;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513;1 123 008
+T068;16-09-2025;C0028;Cliente_28;Coquimbo;58;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238;832 864
+T069;07-03-2025;C0015;Cliente_15;RM;41;P015;Producto_UE_15;LI;84.06;1;84.06;Bebida de Vainilla;204;7 400 741
+T070;16-03-2025;C0041;Cliente_41;Valparaíso;61;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577;1 896 053
+T071;04-01-2025;C0046;Cliente_46;BioBio;67;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376;1 613 059
+T072;24-07-2025;C0030;Cliente_30;BioBio;22;P001;Producto_UE_1;LI;139.98;1;139.98;Jugo de Naranja;323;1 613 059
+T073;30-05-2025;C0031;Cliente_31;RM;44;P009;Producto_GT_9;UE;117.29;6;703.74;Snack de Naranja;100;7 400 741
+T074;01-03-2025;C0043;Cliente_43;Maule;41;P007;Producto_UE_7;UE;132.67;6;796.02;Snack de Limón;77;1 123 008
+T075;13-08-2025;C0065;Cliente_65;Coquimbo;25;P019;Producto_UE_19;LI;25.81;1;25.81;Jugo de Coco;434;832 864
+T076;03-07-2025;C0049;Cliente_49;Coquimbo;36;P009;Producto_GT_9;UE;117.29;8;938.32;Snack de Naranja;100;832 864
+T077;16-07-2025;C0069;Cliente_69;Valparaíso;26;P014;Producto_GT_14;RC;48.66;2;97.32;Yogurt de Vainilla;238;1 896 053
+T078;08-07-2025;C0017;Cliente_17;BioBio;49;P014;Producto_GT_14;RC;48.66;1;48.66;Yogurt de Vainilla;238;1 613 059
+T079;19-04-2025;C0049;Cliente_49;Maule;31;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361;1 123 008
+T080;16-02-2025;C0066;Cliente_66;BioBio;24;P007;Producto_UE_7;UE;132.67;2;265.34;Snack de Limón;77;1 613 059
+T081;19-02-2025;C0031;Cliente_31;Maule;32;P004;Producto_UE_4;LI;121.05;3;363.15;Yogurt de Limón;400;1 123 008
+T082;05-07-2025;C0074;Cliente_74;Valparaíso;37;P017;Producto_GT_17;LI;78.6;6;471.6;Jugo de Fresa;182;1 896 053
+T083;05-02-2025;C0090;Cliente_90;Maule;34;P016;Producto_GT_16;LI;76.65;9;689.85;Bebida de Almendra;376;1 123 008
+T084;22-12-2025;C0012;Cliente_12;RM;49;P017;Producto_GT_17;LI;78.6;9;707.4;Jugo de Fresa;182;7 400 741
+T085;07-04-2025;C0069;Cliente_69;RM;50;P004;Producto_UE_4;LI;121.05;7;847.35;Yogurt de Limón;400;7 400 741
+T086;26-12-2025;C0056;Cliente_56;Valparaíso;69;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238;1 896 053
+T087;16-07-2025;C0081;Cliente_81;RM;68;P020;Producto_UE_20;RC;31.49;7;220.43;Postre de Naranja;468;7 400 741
+T088;26-04-2025;C0094;Cliente_94;RM;40;P014;Producto_GT_14;RC;48.66;1;48.66;Yogurt de Vainilla;238;7 400 741
+T089;26-05-2025;C0016;Cliente_16;RM;58;P015;Producto_UE_15;LI;84.06;2;168.12;Bebida de Vainilla;204;7 400 741
+T090;08-09-2025;C0020;Cliente_20;BioBio;28;P017;Producto_GT_17;LI;78.6;8;628.8;Jugo de Fresa;182;1 613 059
+T091;09-09-2025;C0098;Cliente_98;Maule;36;P018;Producto_UE_18;GT;36.6;7;256.2;Galleta de Limón;73;1 123 008
+T092;30-09-2025;C0021;Cliente_21;RM;40;P003;Producto_GT_3;GT;125.08;4;500.32;Bebida de Fresa;361;7 400 741
+T093;07-11-2025;C0073;Cliente_73;Coquimbo;39;P006;Producto_UE_6;RC;65.64;7;459.48;Galleta de Vainilla;513;832 864
+T094;24-12-2025;C0051;Cliente_51;RM;23;P016;Producto_GT_16;LI;76.65;4;306.6;Bebida de Almendra;376;7 400 741
+T095;13-12-2025;C0097;Cliente_97;Maule;70;P004;Producto_UE_4;LI;121.05;5;605.25;Yogurt de Limón;400;1 123 008
+T096;07-08-2025;C0068;Cliente_68;Coquimbo;18;P015;Producto_UE_15;LI;84.06;1;84.06;Bebida de Vainilla;204;832 864
+T097;18-05-2025;C0085;Cliente_85;Valparaíso;65;P017;Producto_GT_17;LI;78.6;2;157.2;Jugo de Fresa;182;1 896 053
+T098;23-09-2025;C0094;Cliente_94;Maule;35;P001;Producto_UE_1;LI;139.98;3;419.94;Jugo de Naranja;323;1 123 008
+T099;30-01-2025;C0070;Cliente_70;RM;73;P001;Producto_UE_1;LI;139.98;7;979.86;Jugo de Naranja;323;7 400 741
+T100;22-07-2025;C0050;Cliente_50;BioBio;47;P016;Producto_GT_16;LI;76.64999999999999;7;536.55;Bebida de Almendra;376;1 613 059

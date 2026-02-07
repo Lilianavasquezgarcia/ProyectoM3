@@ -1,0 +1,101 @@
+transaction_id;date;customer_id;name;region;age;product_id;product_name;category;price;quantity;total_amount;product_name_invented;calories;poblacion;calorias_totales;rango_etario;categoria_nombre;venta_normalizada;nivel_gasto
+T001;2025-01-01;C0049;Cliente_49;Coquimbo;71;P010;Producto_GT_10;LI;128.22;1;128.22;Jugo de Vainilla;423.0;832864;423.0;Adulto mayor;Líquidos;0.09360803634269627;Bajo
+T002;2025-02-21;C0089;Cliente_89;Coquimbo;70;P014;Producto_GT_14;RC;48.66;3;145.98;Yogurt de Vainilla;238.0;832864;714.0;Adulto mayor;Recargas;0.1098415948374359;Bajo
+T003;2025-12-04;C0070;Cliente_70;RM;19;P019;Producto_UE_19;LI;25.81;1;25.81;Jugo de Coco;434.0;7400741;434.0;Joven;Líquidos;0.0;Bajo
+T004;2025-12-14;C0087;Cliente_87;RM;22;P005;Producto_UE_5;LI;17.84;6;107.04;Bebida de Fresa;102.0;7400741;612.0;Joven;Líquidos;0.07424842097565881;Bajo
+T005;2025-11-17;C0056;Cliente_56;Valparaíso;74;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513.0;1896053;513.0;Adulto mayor;Recargas;0.036406679889948175;Bajo
+T006;2025-10-18;C0007;Cliente_7;BioBio;72;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376.0;1613059;3008.0;Adulto mayor;Líquidos;0.5369048380757384;Alto
+T007;2025-12-15;C0081;Cliente_81;Valparaíso;56;P004;Producto_UE_4;LI;121.05;6;726.3;Yogurt de Limón;400.0;1896053;2400.0;Adulto;Líquidos;0.6402840872736579;Alto
+T008;2025-07-28;C0001;Cliente_1;BioBio;69;P014;Producto_GT_14;RC;48.66;6;291.96;Yogurt de Vainilla;238.0;1613059;1428.0;Adulto mayor;Recargas;0.24327486449183294;Medio
+T009;2025-08-25;C0013;Cliente_13;BioBio;47;P006;Producto_UE_6;RC;65.64;2;131.28;Galleta de Vainilla;513.0;1613059;1026.0;Adulto;Recargas;0.0964050345968575;Bajo
+T010;2025-06-07;C0036;Cliente_36;BioBio;41;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361.0;1613059;1805.0;Adulto;Golosinas;0.5480562690237014;Alto
+T011;2025-01-07;C0064;Cliente_64;Coquimbo;64;P004;Producto_UE_4;LI;121.05;9;1089.45;Yogurt de Limón;400.0;832864;3600.0;Adulto mayor;Líquidos;0.9722219683189676;Alto
+T012;2025-08-03;C0022;Cliente_22;Coquimbo;23;P008;Producto_UE_8;RC;72.54;2;145.08;Jugo de Chocolate;176.0;832864;352.0;Joven;Recargas;0.10901894829209438;Bajo
+T013;2025-10-30;C0018;Cliente_18;Coquimbo;55;P013;Producto_GT_13;RC;62.63;1;62.63;Bebida de Coco;97.0;832864;97.0;Adulto;Recargas;0.033655384221639266;Bajo
+T014;2025-08-08;C0039;Cliente_39;Coquimbo;23;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577.0;832864;3462.0;Joven;Líquidos;0.4518980283904464;Alto
+T015;2025-10-12;C0091;Cliente_91;BioBio;61;P013;Producto_GT_13;RC;62.63;8;501.04;Bebida de Coco;97.0;1613059;776.0;Adulto mayor;Recargas;0.4343847974918421;Medio
+T016;2025-08-20;C0099;Cliente_99;Maule;62;P019;Producto_UE_19;LI;25.81;8;206.48;Jugo de Coco;434.0;1123008;3472.0;Adulto mayor;Líquidos;0.165141723718728;Medio
+T017;2025-11-11;C0050;Cliente_50;Coquimbo;34;P017;Producto_GT_17;LI;78.6;1;78.6;Jugo de Fresa;182.0;832864;182.0;Adulto;Líquidos;0.04825279014286628;Bajo
+T018;2025-04-15;C0008;Cliente_8;Coquimbo;43;P018;Producto_UE_18;GT;36.6;3;109.8;Galleta de Limón;73.0;832864;219.0;Adulto;Golosinas;0.07677120371470618;Bajo
+T019;2025-05-24;C0086;Cliente_86;BioBio;65;P012;Producto_GT_12;GT;23.38;5;116.9;Postre de Miel;271.0;1613059;1355.0;Adulto mayor;Golosinas;0.08326097090573385;Bajo
+T020;2025-01-31;C0045;Cliente_45;Valparaíso;33;P001;Producto_UE_1;LI;139.98;8;1119.84;Jugo de Naranja;323.0;1896053;2584.0;Adulto;Líquidos;1.0;Alto
+T021;2025-03-08;C0057;Cliente_57;Maule;57;P005;Producto_UE_5;LI;17.84;8;142.72;Bebida de Fresa;102.0;1123008;816.0;Adulto;Líquidos;0.10686178623986545;Bajo
+T022;2025-01-19;C0018;Cliente_18;Maule;26;P004;Producto_UE_4;LI;121.05;9;1089.45;Yogurt de Limón;400.0;1123008;3600.0;Joven;Líquidos;0.9722219683189676;Alto
+T023;2025-01-19;C0065;Cliente_65;Maule;22;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513.0;1123008;513.0;Joven;Recargas;0.036406679889948175;Bajo
+T024;2025-08-23;C0001;Cliente_1;Coquimbo;64;P016;Producto_GT_16;LI;76.65;5;383.25;Bebida de Almendra;376.0;832864;1880.0;Adulto mayor;Líquidos;0.32671864574097603;Medio
+T025;2025-01-22;C0003;Cliente_3;BioBio;24;P016;Producto_GT_16;LI;76.65;6;459.9;Bebida de Almendra;376.0;1613059;2256.0;Joven;Líquidos;0.3967807098525634;Medio
+T026;2025-10-09;C0034;Cliente_34;Valparaíso;48;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513.0;1896053;513.0;Adulto;Recargas;0.036406679889948175;Bajo
+T027;2025-04-03;C0060;Cliente_60;Coquimbo;43;P009;Producto_GT_9;UE;117.29;6;703.74;Snack de Naranja;100.0;832864;600.0;Adulto;Útiles;0.6196630805370968;Alto
+T028;2025-04-29;C0093;Cliente_93;Valparaíso;59;P009;Producto_GT_9;UE;117.29;1;117.29;Snack de Naranja;100.0;1896053;100.0;Adulto;Útiles;0.08361745107538185;Bajo
+T029;2025-10-11;C0033;Cliente_33;Valparaíso;32;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238.0;1896053;1904.0;Adulto;Recargas;0.3322303775947643;Medio
+T030;2025-11-13;C0037;Cliente_37;Maule;30;P005;Producto_UE_5;LI;17.84;8;142.72;Bebida de Fresa;102.0;1123008;816.0;Adulto;Líquidos;0.10686178623986545;Bajo
+T031;2025-06-12;C0093;Cliente_93;Coquimbo;59;P014;Producto_GT_14;RC;48.66;9;437.94;Yogurt de Vainilla;238.0;832864;2142.0;Adulto;Recargas;0.37670813414623;Medio
+T032;2025-05-08;C0005;Cliente_5;Maule;20;P015;Producto_UE_15;LI;84.06;7;588.42;Bebida de Vainilla;204.0;1123008;1428.0;Joven;Líquidos;0.5142546365273347;Alto
+T033;2025-10-26;C0069;Cliente_69;Maule;69;P006;Producto_UE_6;RC;65.64;9;590.76;Galleta de Vainilla;513.0;1123008;4617.0;Adulto mayor;Recargas;0.5163935175452228;Alto
+T034;2025-06-27;C0017;Cliente_17;Coquimbo;63;P008;Producto_UE_8;RC;72.54;8;580.32;Jugo de Chocolate;176.0;832864;1408.0;Adulto mayor;Recargas;0.506850817619261;Alto
+T035;2025-02-17;C0036;Cliente_36;Maule;46;P017;Producto_GT_17;LI;78.6;2;157.2;Jugo de Fresa;182.0;1123008;364.0;Adulto;Líquidos;0.1200972551026937;Bajo
+T036;2025-09-30;C0029;Cliente_29;Maule;64;P011;Producto_GT_11;LI;86.7;2;173.4;Jugo de Fresa;577.0;1123008;1154.0;Adulto mayor;Líquidos;0.13490489291884136;Medio
+T037;2025-10-21;C0073;Cliente_73;Coquimbo;67;P012;Producto_GT_12;GT;23.38;8;187.04;Postre de Miel;271.0;832864;2168.0;Adulto mayor;Golosinas;0.14737255833935084;Medio
+T038;2025-01-23;C0006;Cliente_6;Coquimbo;18;P010;Producto_GT_10;LI;128.22;3;384.66;Jugo de Vainilla;423.0;832864;1269.0;Joven;Líquidos;0.32800745866201114;Medio
+T039;2025-02-24;C0020;Cliente_20;RM;62;P009;Producto_GT_9;UE;117.29;8;938.32;Snack de Naranja;100.0;7400741;800.0;Adulto mayor;Útiles;0.8340813323217828;Alto
+T040;2025-01-13;C0065;Cliente_65;Maule;67;P003;Producto_GT_3;GT;125.08;3;375.24;Bebida de Fresa;361.0;1123008;1083.0;Adulto mayor;Golosinas;0.3193970914874364;Medio
+T041;2025-06-04;C0076;Cliente_76;RM;30;P013;Producto_GT_13;RC;62.63;8;501.04;Bebida de Coco;97.0;7400741;776.0;Adulto;Recargas;0.4343847974918421;Medio
+T042;2025-01-23;C0002;Cliente_2;BioBio;62;P006;Producto_UE_6;RC;65.64;2;131.28;Galleta de Vainilla;513.0;1613059;1026.0;Adulto mayor;Recargas;0.0964050345968575;Bajo
+T043;2025-05-11;C0023;Cliente_23;Coquimbo;42;P007;Producto_UE_7;UE;132.67;6;796.02;Snack de Limón;77.0;832864;462.0;Adulto;Útiles;0.7040117729861156;Alto
+T044;2025-07-09;C0089;Cliente_89;Valparaíso;61;P003;Producto_GT_3;GT;125.08;3;375.24;Bebida de Fresa;361.0;1896053;1083.0;Adulto mayor;Golosinas;0.3193970914874364;Medio
+T045;2025-12-31;C0068;Cliente_68;Valparaíso;60;P018;Producto_UE_18;GT;36.6;8;292.8;Galleta de Limón;73.0;1896053;584.0;Adulto mayor;Golosinas;0.24404266793415172;Medio
+T046;2025-05-30;C0049;Cliente_49;BioBio;60;P012;Producto_GT_12;GT;23.38;4;93.52;Postre de Miel;271.0;1613059;1084.0;Adulto mayor;Golosinas;0.06189044176119485;Bajo
+T047;2025-12-23;C0067;Cliente_67;Maule;37;P014;Producto_GT_14;RC;48.66;9;437.94;Yogurt de Vainilla;238.0;1123008;2142.0;Adulto;Recargas;0.37670813414623;Medio
+T048;2025-10-19;C0062;Cliente_62;BioBio;72;P020;Producto_UE_20;RC;31.49;2;62.98;Postre de Naranja;468.0;1613059;936.0;Adulto mayor;Recargas;0.033975302322605413;Bajo
+T049;2025-02-20;C0046;Cliente_46;BioBio;20;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376.0;1613059;3008.0;Joven;Líquidos;0.5369048380757384;Alto
+T050;2025-03-09;C0021;Cliente_21;Coquimbo;60;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361.0;832864;1805.0;Adulto mayor;Golosinas;0.5480562690237014;Alto
+T051;2025-08-09;C0055;Cliente_55;Coquimbo;31;P018;Producto_UE_18;GT;36.6;4;146.4;Galleta de Limón;73.0;832864;292.0;Adulto;Golosinas;0.11022549655859529;Bajo
+T052;2025-01-16;C0087;Cliente_87;RM;37;P020;Producto_UE_20;RC;31.49;6;188.94;Postre de Naranja;468.0;7400741;2808.0;Adulto;Recargas;0.14910925660173852;Medio
+T053;2025-09-12;C0047;Cliente_47;Valparaíso;65;P004;Producto_UE_4;LI;121.05;8;968.4;Yogurt de Limón;400.0;1896053;3200.0;Adulto mayor;Líquidos;0.861576007970531;Alto
+T054;2025-06-10;C0043;Cliente_43;Maule;30;P015;Producto_UE_15;LI;84.06;4;336.24;Bebida de Vainilla;204.0;1123008;816.0;Adulto;Líquidos;0.2837490745226365;Medio
+T055;2025-05-11;C0001;Cliente_1;BioBio;55;P012;Producto_GT_12;GT;23.38;7;163.66;Postre de Miel;271.0;1613059;1897.0;Adulto;Golosinas;0.12600202919481185;Medio
+T056;2025-02-19;C0048;Cliente_48;Coquimbo;43;P010;Producto_GT_10;LI;128.22;6;769.32;Jugo de Vainilla;423.0;832864;2538.0;Adulto;Líquidos;0.6796065921409834;Alto
+T057;2025-02-13;C0024;Cliente_24;RM;42;P019;Producto_UE_19;LI;25.81;7;180.67;Jugo de Coco;434.0;7400741;3038.0;Adulto;Líquidos;0.14155004890176684;Medio
+T058;2025-04-13;C0093;Cliente_93;RM;31;P004;Producto_UE_4;LI;121.05;6;726.3;Yogurt de Limón;400.0;7400741;2400.0;Adulto;Líquidos;0.6402840872736579;Alto
+T059;2025-02-27;C0048;Cliente_48;Maule;40;P014;Producto_GT_14;RC;48.66;3;145.98;Yogurt de Vainilla;238.0;1123008;714.0;Adulto;Recargas;0.1098415948374359;Bajo
+T060;2025-03-25;C0020;Cliente_20;Valparaíso;47;P018;Producto_UE_18;GT;36.6;4;146.4;Galleta de Limón;73.0;1896053;292.0;Adulto;Golosinas;0.11022549655859529;Bajo
+T061;2025-05-05;C0023;Cliente_23;Coquimbo;32;P012;Producto_GT_12;GT;23.38;6;140.28;Postre de Miel;271.0;832864;1626.0;Adulto;Golosinas;0.10463150005027284;Bajo
+T062;2025-03-31;C0026;Cliente_26;Maule;45;P010;Producto_GT_10;LI;128.22;7;897.54;Jugo de Vainilla;423.0;1123008;2961.0;Adulto;Líquidos;0.7968063033006408;Alto
+T063;2025-04-03;C0076;Cliente_76;RM;31;P006;Producto_UE_6;RC;65.64;5;328.2;Galleta de Vainilla;513.0;7400741;2565.0;Adulto;Recargas;0.2764000987175854;Medio
+T064;2025-01-02;C0031;Cliente_31;Coquimbo;25;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577.0;832864;3462.0;Joven;Líquidos;0.4518980283904464;Alto
+T065;2025-01-24;C0013;Cliente_13;Coquimbo;68;P008;Producto_UE_8;RC;72.54;2;145.08;Jugo de Chocolate;176.0;832864;352.0;Adulto mayor;Recargas;0.10901894829209438;Bajo
+T066;2025-02-22;C0046;Cliente_46;RM;25;P020;Producto_UE_20;RC;31.49;7;220.43;Postre de Naranja;468.0;7400741;3276.0;Joven;Recargas;0.17789274517152182;Medio
+T067;2025-09-11;C0003;Cliente_3;Maule;43;P006;Producto_UE_6;RC;65.64;1;65.64;Galleta de Vainilla;513.0;1123008;513.0;Adulto;Recargas;0.036406679889948175;Bajo
+T068;2025-09-16;C0028;Cliente_28;Coquimbo;58;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238.0;832864;1904.0;Adulto;Recargas;0.3322303775947643;Medio
+T069;2025-03-07;C0015;Cliente_15;RM;41;P015;Producto_UE_15;LI;84.06;1;84.06;Bebida de Vainilla;204.0;7400741;204.0;Adulto;Líquidos;0.05324351251793827;Bajo
+T070;2025-03-16;C0041;Cliente_41;Valparaíso;61;P011;Producto_GT_11;LI;86.7;6;520.2;Jugo de Fresa;577.0;1896053;3462.0;Adulto mayor;Líquidos;0.4518980283904464;Alto
+T071;2025-01-04;C0046;Cliente_46;BioBio;67;P016;Producto_GT_16;LI;76.65;8;613.2;Bebida de Almendra;376.0;1613059;3008.0;Adulto mayor;Líquidos;0.5369048380757384;Alto
+T072;2025-07-24;C0030;Cliente_30;BioBio;22;P001;Producto_UE_1;LI;139.98;1;139.98;Jugo de Naranja;323.0;1613059;323.0;Joven;Líquidos;0.104357284535159;Bajo
+T073;2025-05-30;C0031;Cliente_31;RM;44;P009;Producto_GT_9;UE;117.29;6;703.74;Snack de Naranja;100.0;7400741;600.0;Adulto;Útiles;0.6196630805370968;Alto
+T074;2025-03-01;C0043;Cliente_43;Maule;41;P007;Producto_UE_7;UE;132.67;6;796.02;Snack de Limón;77.0;1123008;462.0;Adulto;Útiles;0.7040117729861156;Alto
+T075;2025-08-13;C0065;Cliente_65;Coquimbo;25;P019;Producto_UE_19;LI;25.81;1;25.81;Jugo de Coco;434.0;832864;434.0;Joven;Líquidos;0.0;Bajo
+T076;2025-07-03;C0049;Cliente_49;Coquimbo;36;P009;Producto_GT_9;UE;117.29;8;938.32;Snack de Naranja;100.0;832864;800.0;Adulto;Útiles;0.8340813323217828;Alto
+T077;2025-07-16;C0069;Cliente_69;Valparaíso;26;P014;Producto_GT_14;RC;48.66;2;97.32;Yogurt de Vainilla;238.0;1896053;476.0;Joven;Recargas;0.06536383828597021;Bajo
+T078;2025-07-08;C0017;Cliente_17;BioBio;49;P014;Producto_GT_14;RC;48.66;1;48.66;Yogurt de Vainilla;238.0;1613059;238.0;Adulto;Recargas;0.020886081734504538;Bajo
+T079;2025-04-19;C0049;Cliente_49;Maule;31;P003;Producto_GT_3;GT;125.08;5;625.4;Bebida de Fresa;361.0;1123008;1805.0;Adulto;Golosinas;0.5480562690237014;Alto
+T080;2025-02-16;C0066;Cliente_66;BioBio;24;P007;Producto_UE_7;UE;132.67;2;265.34;Snack de Limón;77.0;1613059;154.0;Joven;Útiles;0.2189428077840644;Medio
+T081;2025-02-19;C0031;Cliente_31;Maule;32;P004;Producto_UE_4;LI;121.05;3;363.15;Yogurt de Limón;400.0;1123008;1200.0;Adulto;Líquidos;0.3083462062283484;Medio
+T082;2025-07-05;C0074;Cliente_74;Valparaíso;37;P017;Producto_GT_17;LI;78.6;6;471.6;Jugo de Fresa;182.0;1896053;1092.0;Adulto;Líquidos;0.40747511494200345;Medio
+T083;2025-02-05;C0090;Cliente_90;Maule;34;P016;Producto_GT_16;LI;76.65;9;689.85;Bebida de Almendra;376.0;1123008;3384.0;Adulto;Líquidos;0.6069669021873259;Alto
+T084;2025-12-22;C0012;Cliente_12;RM;49;P017;Producto_GT_17;LI;78.6;9;707.4;Jugo de Fresa;182.0;7400741;1638.0;Adulto;Líquidos;0.6230085098214857;Alto
+T085;2025-04-07;C0069;Cliente_69;RM;50;P004;Producto_UE_4;LI;121.05;7;847.35;Yogurt de Limón;400.0;7400741;2800.0;Adulto;Líquidos;0.7509300476220946;Alto
+T086;2025-12-26;C0056;Cliente_56;Valparaíso;69;P014;Producto_GT_14;RC;48.66;8;389.28;Yogurt de Vainilla;238.0;1896053;1904.0;Adulto mayor;Recargas;0.3322303775947643;Medio
+T087;2025-07-16;C0081;Cliente_81;RM;68;P020;Producto_UE_20;RC;31.49;7;220.43;Postre de Naranja;468.0;7400741;3276.0;Adulto mayor;Recargas;0.17789274517152182;Medio
+T088;2025-04-26;C0094;Cliente_94;RM;40;P014;Producto_GT_14;RC;48.66;1;48.66;Yogurt de Vainilla;238.0;7400741;238.0;Adulto;Recargas;0.020886081734504538;Bajo
+T089;2025-05-26;C0016;Cliente_16;RM;58;P015;Producto_UE_15;LI;84.06;2;168.12;Bebida de Vainilla;204.0;7400741;408.0;Adulto;Líquidos;0.13007869985283768;Medio
+T090;2025-09-08;C0020;Cliente_20;BioBio;28;P017;Producto_GT_17;LI;78.6;8;628.8;Jugo de Fresa;182.0;1613059;1456.0;Joven;Líquidos;0.5511640448616583;Alto
+T091;2025-09-09;C0098;Cliente_98;Maule;36;P018;Producto_UE_18;GT;36.6;7;256.2;Galleta de Limón;73.0;1123008;511.0;Adulto;Golosinas;0.2105883750902626;Medio
+T092;2025-09-30;C0021;Cliente_21;RM;40;P003;Producto_GT_3;GT;125.08;4;500.32;Bebida de Fresa;361.0;7400741;1444.0;Adulto;Golosinas;0.4337266802555689;Medio
+T093;2025-11-07;C0073;Cliente_73;Coquimbo;39;P006;Producto_UE_6;RC;65.64;7;459.48;Galleta de Vainilla;513.0;832864;3591.0;Adulto;Recargas;0.3963968081314041;Medio
+T094;2025-12-24;C0051;Cliente_51;RM;23;P016;Producto_GT_16;LI;76.65;4;306.6;Bebida de Almendra;376.0;7400741;1504.0;Joven;Líquidos;0.2566565816293886;Medio
+T095;2025-12-13;C0097;Cliente_97;Maule;70;P004;Producto_UE_4;LI;121.05;5;605.25;Yogurt de Limón;400.0;1123008;2000.0;Adulto mayor;Líquidos;0.5296381269252215;Alto
+T096;2025-08-07;C0068;Cliente_68;Coquimbo;18;P015;Producto_UE_15;LI;84.06;1;84.06;Bebida de Vainilla;204.0;832864;204.0;Joven;Líquidos;0.05324351251793827;Bajo
+T097;2025-05-18;C0085;Cliente_85;Valparaíso;65;P017;Producto_GT_17;LI;78.6;2;157.2;Jugo de Fresa;182.0;1896053;364.0;Adulto mayor;Líquidos;0.1200972551026937;Bajo
+T098;2025-09-23;C0094;Cliente_94;Maule;35;P001;Producto_UE_1;LI;139.98;3;419.94;Jugo de Naranja;323.0;1123008;969.0;Adulto;Líquidos;0.3602552032393993;Medio
+T099;2025-01-30;C0070;Cliente_70;RM;73;P001;Producto_UE_1;LI;139.98;7;979.86;Jugo de Naranja;323.0;7400741;2261.0;Adulto mayor;Líquidos;0.87205104064788;Alto
+T100;2025-07-22;C0050;Cliente_50;BioBio;47;P016;Producto_GT_16;LI;76.64999999999999;7;536.55;Bebida de Almendra;376.0;1613059;2632.0;Adulto;Líquidos;0.46684277396415086;Alto
